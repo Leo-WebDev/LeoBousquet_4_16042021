@@ -1,0 +1,27 @@
+Objectif :
+
+- Lister les éléments non optimisées pour le SEO
+- Justifier la présence de chacun de ces éléments sur la liste
+- Parmis la liste d'éléments, en choisir 10
+- Sur les 10 au moins une sur la vitesse, la taille, l'accessibilité
+- Appliquer les changements nécessaire pour ces 10 points
+- Validation W3C HTML / CSS
+- Comparer vitesse de chargement avant / après
+
+Livrable :
+
+- Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées
+- Code source complet du site amélioré
+- Rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
+
+
+A faire :
+
+- Refaire page de contact (2ème page)
+https://academy.visiplus.com/blog/wp-content/uploads/2018/07/1.5.png
+Adresse complète
+Numéro de téléphone si nécessaire
+Horaires si nécessaire
+Une carte est un plus pour indiquer votre emplacement
+Un descriptif d'accès
+Un descriptif du lieu

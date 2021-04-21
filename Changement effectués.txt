@@ -1,0 +1,20 @@
+Suppression code inutile :
+- Dizaines d'icone non utilisée
+- Milliers de ligne de code pour des classes n'existant   pas
+
+Remplacement des images contenant uniquement du texte, par le texte en question
+
+Remplacement / Ajout des keywords
+
+Ajout d'une description
+
+Ajout d'une balise canonique (sert à indiquer à Google la page principale à indexer lorsque celle-ci peut avoir plusieurs URL)
+
+Ajout d'un module Google Analytics + Google Search Console, permet de contrôler le passage sur le site / les mots-clé utilisés pour arriver sur le site
+
+Ajout d'un titre pour la page principale, et secondaire
+
+Réarrangement du code pour plus de lisibilité
+
+Suppression des balises vides et / ou inutiles
+

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /page2/
+Sitemap: https://leo-webdev.github.io/LeoBousquet_4_16042021/index.html
