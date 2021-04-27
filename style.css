@@ -14,17 +14,8 @@ button {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     cursor: pointer;
-}
-
-#page-loading-blocs-notifaction {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -45,7 +36,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 30px 50px;
 }
 
 .bloc-md {
@@ -325,7 +316,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -645,13 +636,23 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
+}
+
+p {
+    color: rgba(0, 0, 0, .6);
+}
+
+a {
+    color: #FFF;
+}
+
+.italic {
+    font-style: italic;
 }
 
 .container {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -707,6 +708,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    position: relative;
 }
 
 h3 {
@@ -771,15 +773,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #D93F0C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FCCF6F!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #D93F0C;
     color: #FFFFFF!important;
 }
 
@@ -822,7 +824,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {

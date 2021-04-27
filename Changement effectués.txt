@@ -1,7 +1,3 @@
-Suppression code inutile :
-- Dizaines d'icone non utilisée
-- Milliers de ligne de code pour des classes n'existant   pas
-
 Remplacement des images contenant uniquement du texte, par le texte en question
 
 Remplacement / Ajout des keywords
@@ -16,5 +12,16 @@ Ajout d'un titre pour la page principale, et secondaire
 
 Réarrangement du code pour plus de lisibilité
 
-Suppression des balises vides et / ou inutiles
+----
 
+Redimensionnement et changement de format (image bcp plus légères)
+
+Fichiers JavaScript passer au minifier
+
+Test via l'outil Google, le site est mobile friendly
+
+Suppression des liens vides
+
+Changement des alt de chaque image
+
+Correction Ratio de couleur
