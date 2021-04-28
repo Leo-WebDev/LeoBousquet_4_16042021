@@ -81,6 +81,29 @@ a:hover {
     right: 0;
 }
 
+.social,
+.partners {
+    display: flex;
+    margin: 25px 15px;
+    justify-content: space-around;
+}
+
+.partners {
+    flex-direction: column;
+    align-items: center;
+}
+
+.partners-div {
+    display: flex;
+    font-size: 20px;
+}
+
+.black {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -467,7 +490,12 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
+    padding-top: 15px;
+}
+
+.bigger-font {
+    font-size: 20px;
 }
 
 .icon-lg {
@@ -678,7 +706,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -712,9 +740,9 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     color: #333333!important;
 }
 
@@ -777,6 +805,10 @@ h4 {
 }
 
 .tc-white {
+    color: #ffffff!important;
+}
+
+.tc-yellow {
     color: #FCCF6F!important;
 }
 
