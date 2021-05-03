@@ -1,0 +1,35 @@
+Remplacement des images contenant uniquement du texte, par le texte en question
+
+Remplacement / Ajout des keywords
+
+Ajout d'une description
+
+Ajout d'une balise canonique (sert à indiquer à Google la page principale à indexer lorsque celle-ci peut avoir plusieurs URL)
+
+Ajout d'un module Google Analytics + Google Search Console, permet de contrôler le passage sur le site / les mots-clé utilisés pour arriver sur le site
+
+Ajout d'un titre pour la page principale, et secondaire
+
+Réarrangement du code pour plus de lisibilité
+
+----
+
+Redimensionnement et changement de format (image bcp plus légères)
+
+Fichiers JavaScript passer au minifier
+
+Test via l'outil Google, le site est mobile friendly
+
+Suppression des liens vides
+
+Changement des alt de chaque image
+
+Correction Ratio de couleur
+
+Ajout d'un texte sur les liens vides
+
+Ajout de balise ARIA
+
+Changement visuel du footer
+
+Compression des images
